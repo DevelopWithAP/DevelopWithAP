@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tolis
 - 👀 I’m interested in Computer Science and its applications such as Software Development.
-- 🌱 I’m currently learning Clean Architecture, C# and the dotnet ecosystem.
+- 🌱 I’m currently working as a Web Engineer.
 - 💞️ I’m looking to collaborate on beginner Open-Source Projects.
 - 📫 How to reach me: feel free to message me on linkedIn: www.linkedin.com/in/apostolos-papas
 
