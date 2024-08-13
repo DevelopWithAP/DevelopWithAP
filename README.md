@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tolis
-- 👀 I’m interested in Computer Science and its applications such as Software Development.
+- 👀 I’m interested in front-end development, accessibility, design systems.
 - 🌱 I’m currently working as a Web Engineer.
-- 💞️ I’m looking to collaborate on beginner Open-Source Projects.
+- 💞️ I’m looking to enhance my knowledge of full stack development.
 - 📫 How to reach me: feel free to message me on linkedIn: www.linkedin.com/in/apostolos-papas
 
 <!---
